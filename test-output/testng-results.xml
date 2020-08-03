@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="55101" started-at="2020-07-27T23:20:59Z" finished-at="2020-07-27T23:21:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="55101" started-at="2020-07-27T23:20:59Z" finished-at="2020-07-27T23:21:54Z">
+      <class name="com.qa.hotels.tests.HotelPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.hotels.tests.HotelPageTest@edf4efb]" name="setUp" is-config="true" duration-ms="10935" started-at="2020-07-27T19:20:59Z" finished-at="2020-07-27T19:21:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="get3StarHotelTest()[pri:2, instance:com.qa.hotels.tests.HotelPageTest@edf4efb]" name="get3StarHotelTest" duration-ms="44154" started-at="2020-07-27T19:21:10Z" finished-at="2020-07-27T19:21:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get3StarHotelTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hotels.tests.HotelPageTest@edf4efb]" name="tearDown" is-config="true" duration-ms="1" started-at="2020-07-27T19:21:54Z" finished-at="2020-07-27T19:21:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.hotels.tests.HotelPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
